@@ -1,0 +1,12 @@
+1._ instalar los componentes de visual
+https://wampserver.aviatechno.net/?lang=en&prerequis=afficher
+
+2._regla de firewall
+https://www.youtube.com/watch?v=lOd_T11_Rc8
+
+3._ Programar el inicio diario de wampserver
+
+4._Subir de nuevo La base de datos.
+jiji
+
+5._Generar el backup de la base de datos
